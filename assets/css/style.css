@@ -1,0 +1,32 @@
+.nav-link{
+    font-weight: 500;
+}
+.navbar-brand{
+    font-weight: bold;
+}
+.bg-hero{
+    background: url('../img/istockphoto-1173279965-612x612.jpg') no-repeat;
+    background-size: cover;
+}
+/* search */
+.search-box{
+    background-color: #fff;
+    height: 25px;
+    padding: 7px 15px;
+    border-radius: 50px;
+}
+.search-box input{
+    border: none;
+    outline: none;
+    background: none;
+    width: 100px;
+}
+button{
+    border: none;
+}
+
+.container{
+    width:80%;
+    margin: 0 auto;
+}
+.container:after{
